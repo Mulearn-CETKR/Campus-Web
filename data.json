@@ -1,0 +1,97 @@
+{
+    "collegeCode": "CETKR",
+
+    "college": "College of Engineering Trikaripur",
+
+    "about": "µLearn CETKR was officially established on October 7, 2024, under the leadership of Adarsh Madhusoodanan, with a vision to promote a synergistic philosophy of education and foster a culture of mutual learning through micro peer groups. Guided by Adarsh Madhusoodanan as the Campus Lead and Reejamol K J, Assistant Professor (CSE), as the Faculty Enabler, µLearn set out to empower students by encouraging them to break free from echo chambers and embrace innovative thinking. In the same month, µLearn established its Executive Committee (Execom), comprising dedicated student leaders devoted to advancing the club’s mission and realizing its vision.",
+
+    "events": [
+        {
+            "month": "Oct",
+            "date": "7",
+            "head": "Oreintation",
+            "para": "We successfully conducted the first-ever MuLearn CETKR orientation session, connecting with enthusiastic students eager to learn and grow.",
+            "img": "src/Components/Events/assets/new.png"
+        }
+
+    ],  
+
+    "gallery": {
+        "row1": [
+            {
+                "image": "./assets/new.png"
+            },
+            {
+                "image": "./assets/new.png"
+            },
+			{
+				"image": "./assets/new.png"
+			}
+        ],
+        "row2": [
+            {
+                "image": "./assets/new.png"
+            },
+            {
+                "image": "./assets/new.png"
+            }
+        ]
+    },
+
+    "statistics": {
+        "studentsCount": 30,
+        "learningCircles": 4,
+        "InterestGroups": 5,
+        "karmaEarned": 10000,
+        "rank": 120
+    },
+
+    "team": {
+        "staffAdvisor": {
+            "name": "Reejamol KJ",
+            "image": ""
+        },
+        "campusLead": {
+            "name": "Yadhu Nandanan",
+            "image": "./assets/Adarsh_Madhusoodanan.png"
+        },
+        "campusCoLead": {
+            "name": "Deepak Mahendran",
+            "image": ""
+        },
+        "campusCoLead": {
+            "name": "Aparna K P",
+            "image": ""
+        },
+        "technicalLead": {
+            "name": "Sidharth P V",
+            "image": ""
+        },
+        "creativeLead": {
+            "name": "Mrudul Chandran",
+            "image": ""
+        },
+        "contentLead": {
+            "name": "Harinandanan",
+            "image": ""
+        },
+        "operationLead": {
+            "name": "Arya Mohan",
+            "image": ""
+        }
+    },
+
+    "discordLink": "",
+
+    "whatsAppLink": "",
+
+    "email": "mulearn@cce.edu.in",
+
+    "linkedIn": "",
+
+    "instagram": "",
+
+    "twitter": "",
+
+    "facebook": ""
+}
